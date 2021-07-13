@@ -1,5 +1,5 @@
-print("Lab 14 by Ashutosh Joshi")
 import sys, pygame
+print("Lab 14 by Ashutosh Joshi")
 pygame.init()
 
 size = width, height = 700, 700

@@ -1,4 +1,3 @@
-print("Lab 12 by Ashutosh Joshi")
 def mergeSort(myList):
     if len(myList) > 1:
         mid = len(myList) // 2
@@ -31,4 +30,5 @@ def mergeSort(myList):
             k += 1
 
 myList = [41, 59, 26, 53, 59,4,6,786,33,2]
-print(mergeSort(myList))
+mergeSort(myList)
+print(myList)
